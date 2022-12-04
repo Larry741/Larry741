@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey, I'm a software engineer who constantly seeks out innovative solutions to everyday problems.
+I’m a full stack developer specializing mostly on frontend development and have a superb knowledge of Data Structure, Software Architecture and Database solutions. 
 
 <!--
 **Larry741/Larry741** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
