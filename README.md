@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Kosi</h1>
-<h3 align="center">A full stack developer specializing on frontend development and have a superb knowledge of Data Structure, Software Architecture and Database solutions.</h3>
+<h1 align="left">Hey 👋, I'm Kosi</h1>
+<h3 align="left">A full stack developer specializing on frontend development and have a superb knowledge of Data Structure, Software Architecture and Database solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
