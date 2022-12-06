@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Kosi</h1>
 <h3 align="center">A full stack developer specializing on frontend development and have a superb knowledge of Data Structure, Software Architecture and Database solutions.</h3>
 
-- 👨‍💻 Some of my projects are available at [https://www.kosimbanefo.dev](https://www.kosimbanefo.dev)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kosi-mbanefo-2156101a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kosi-mbanefo-2156101a2/" height="30" width="40" /></a>
